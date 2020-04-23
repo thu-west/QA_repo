@@ -1,5 +1,6 @@
 专病QA系统
 =========
+
 ## 运行环境<br>
 * jdk 1.8.0_221
 * Eclipse 4.7
@@ -88,4 +89,6 @@ or
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+## 联系方式<br>
+shengming@tsinghua.edu
 
